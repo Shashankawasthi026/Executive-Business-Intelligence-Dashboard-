@@ -177,7 +177,7 @@ This project successfully demonstrates the application of Business Intelligence 
 B.Tech CSE (Data Science & Artificial Intelligence)
 
 - GitHub: https://github.com/Shashankawasthi026
-- LinkedIn: linkedin.com/in/shashank-awasthi-b74b23317
+- LinkedIn: [linkedin.com/in/shashank-awasthi-b74b23317](https://www.linkedin.com/in/shashank-awasthi-b74b23317/)
 
 ---
 ⭐ If you found this project helpful, consider giving it a star!
