@@ -143,9 +143,10 @@ The **Technology Category** emerged as the strongest-performing category in term
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot here
-
-![Dashboard Screenshot](dashboard.png)
+> Dashboard screenshot
+<img width="1305" height="738" alt="image" src="https://github.com/user-attachments/assets/5eab842d-5c5c-4e08-8504-f8b4d644e785" />
+> Model View
+<img width="1497" height="724" alt="image" src="https://github.com/user-attachments/assets/1839388d-67ac-475e-8a38-775c91824c70" />
 
 ---
 
